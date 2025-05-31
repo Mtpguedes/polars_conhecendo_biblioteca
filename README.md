@@ -24,3 +24,5 @@ Para isso, explorei:
 **O quê aprendi?**
 
 Esse curso me ajudou a consolidar conceitos importantes de análise de dados, com foco em performance e boas práticas. O Polars, além de ser rápido, força a gente a pensar de forma mais funcional e enxuta, o que melhora não só o código, mas o raciocínio por trás da análise.
+
+Para acessar a base de dados utilizada nesse projeto, clique no link: https://drive.google.com/file/d/1JEVSj60sGahMn9hrN5VsQlCKonPkZ9G5/view?usp=drive_link
